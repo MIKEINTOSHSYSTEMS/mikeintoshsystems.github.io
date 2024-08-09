@@ -70,7 +70,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+  telegram: mikeintosh
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "mikeintoshsys.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -258,7 +258,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Africa/Addis_Ababa"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
